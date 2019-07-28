@@ -1,4 +1,4 @@
-# Task Manager Full-stack App
+# Message Board Full-stack App
 
 ### Goal: Create a full-stack message board with user authentication.
 
